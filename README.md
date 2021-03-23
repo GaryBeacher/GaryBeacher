@@ -15,19 +15,8 @@
 <table width="800px">
 <tr>
 <td valign="top" width="50%"> 
-我的名字叫赵炳琦，一名做前端的小学生，1990年中国制造。
- 
-国家一级抬杠运动员
-
-拖延俱乐部顶级VIP
-
-素质教育的漏网之鱼
-
-互联网冲浪金牌选手
-
-幼儿园抢饭第一名
-
-吉尼斯世界纪录“怎么减肥也减不下来”记录保持者 
+ <img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/44_888_863cbfaaa483a3394ad12525fda91611_f8aba8b5d8816b29e83141d4ff981eb1.png?raw=true" width="50%">
+ <img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/gh_a50e17cc64eb_258.jpeg?raw=true" width="50%">
 </td>
 
 <td valign="top" width="50%">
