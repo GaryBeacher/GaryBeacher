@@ -3,14 +3,14 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently work in Onion.
-- 🌱 I’m currently studying micro-front-end, cloud development.
-- 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
-- 🤔 I’m looking for help with TS or JS development.
-- 💬 Ask me about Anything you want~
-- 📫 Reach me: zhao01051@gmail.com.
-- 😄 Pronouns: GaruChiu
-- ⚡ Interesting facts: music, Japanese and English, basketball, animation, video games.
+- 🔭  I’m currently work in Onion.
+- 🌱  I’m currently studying micro-front-end, cloud development.
+- 👯  I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
+- 🤔  I’m looking for help with TS or JS development.
+- 💬  Ask me about Anything you want~
+- 📫  Reach me: zhao01051@gmail.com.
+- 😄  Pronouns: GaruChiu
+-  ⚡ Interesting facts: music, Japanese and English, basketball, animation, video games.
 
 <table width="800px">
 <tr>
@@ -71,7 +71,7 @@ Guinness Book of World Records record holder of "you can't lose weight no matter
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryBeacher&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GaryChiu's GitHub Stats" />  
  </a>
 <a href="https://github.com/GaryBeacher">
-  <img align="center" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryBeacher&layout=compact" />
+  <img align="center" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryBeacher&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <p align="center"> 
