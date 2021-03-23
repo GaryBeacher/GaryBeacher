@@ -1,5 +1,5 @@
 
-<img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/banner.jpeg?raw=true" width="30px">
+<img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/banner.jpeg?raw=true" width="100%">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
