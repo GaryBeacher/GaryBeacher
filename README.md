@@ -17,6 +17,15 @@
 
 吉尼斯世界纪录“怎么减肥也减不下来”记录保持者
 
+My name is Zhao Bingqi, a front-end pupil, made in China in 1990.
+National first-class bar lifter.
+Procrastinate the club's top VIP.
+The fish out of the net of quality education.
+Internet surfing gold medalist.
+The kindergarten grabs the first place for food.
+Guinness Book of World Records record holder of "you can't lose weight no matter how much you lose weight"
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
