@@ -15,8 +15,8 @@
 <table width="800px">
 <tr>
 <td valign="top" width="50%"> 
- <img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/44_888_863cbfaaa483a3394ad12525fda91611_f8aba8b5d8816b29e83141d4ff981eb1.png?raw=true" width="50%">
- <img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/gh_a50e17cc64eb_258.jpeg?raw=true" width="50%">
+ <img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/44_888_863cbfaaa483a3394ad12525fda91611_f8aba8b5d8816b29e83141d4ff981eb1.png?raw=true" width="40%">
+ <img src="https://github.com/GaryBeacher/hbj-minishop/blob/master/gh_a50e17cc64eb_258.jpeg?raw=true" width="40%">
 </td>
 
 <td valign="top" width="50%">
