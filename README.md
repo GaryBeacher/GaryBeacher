@@ -19,11 +19,4 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 ![UNIAPP](https://img.shields.io/badge/-UNIAPP-%23CCC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABCElEQVRoge3YMa4BURSH8Y8o7UAp0WgkotBZwluAfhqlZSgUGr23ENUUCpppJnTswAIUSCaTiziZJ8d9/193zdzrfMltABF5plb+oLscDoAV0Pn8OC/lwDhL0k35QT3wstcIuM61Cj0IhXiNuAvOFwr5SgrxRiHeKMSbhnHfAVgU1i1gajhnBpwK6wnQtgxkDTlmSTq/L7rLYQ9byG+WpLvCOT8YQ6K5WgrxRiHeKMQbhXijEG8U4o1CvIkmxPrDquwMrI37KlFJSJake2BUxVlW0VytaEKsV6t5+8Ohak3rRmtIH9hav/QvRHO1FOKNQrwJheQfn+I9wflCIeNHLzuQc51PRP6rC1ZeIm1I8cC5AAAAAElFTkSuQmCC&logoColor=fff)
  
 
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryBeacher&theme=dark" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryBeacher&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryBeacher&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryBeacher /> 
- 
-![](https://github-readme-stats.vercel.app/api?username=GaryBeacher&theme=dark)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaryBeacher&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GaryChiu's GitHub Stats" />  
