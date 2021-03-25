@@ -9,7 +9,7 @@
 - 🤔  I’m looking for help with TS or JS development.
 - 💬  Ask me about Anything you want~
 - 📫  Reach me: zhao01051@gmail.com.
-- 😄  Pronouns: GaruChiu
+- 😄  Pronouns: GaryChiu
 -  ⚡ Interesting facts: music, Japanese and English, basketball, animation, video games.
 
 <table width="800px">
