@@ -3,14 +3,14 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭  I’m currently work in Onion.
-- 🌱  I’m currently studying micro-front-end, cloud development.
-- 👯  I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
-- 🤔  I’m looking for help with TS or JS development.
-- 💬  Ask me about Anything you want~
-- 📫  Reach me: zhao01051@gmail.com.
-- 😄  Pronouns: GaryChiu
--  ⚡ Interesting facts: music, Japanese and English, basketball, animation, video games.  
+- 🔭   I’m currently work in Onion.
+- 🌱   I’m currently studying micro-front-end, cloud development.
+- 👯   I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
+- 🤔   I’m looking for help with TS or JS development.
+- 💬   Ask me about Anything you want~
+- 📫   Reach me: zhao01051@gmail.com.
+- 😄   Pronouns: GaryChiu
+-  ⚡  Interesting facts: music, Japanese and English, basketball, animation, video games.  
 
 <table width="800px">
 <tr>
