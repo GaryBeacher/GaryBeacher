@@ -62,9 +62,7 @@ Guinness Book of World Records record holder of "you can't lose weight no matter
  </a>
 <a href="https://github.com/GaryBeacher">
   <img align="center" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaryBeacher&layout=compact&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-  
-    <br><br><br>
+</a>   
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
